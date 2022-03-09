@@ -66,6 +66,7 @@
     "@ngxs/router-plugin": "^3.7.2",
     "@ngxs/storage-plugin": "^3.7.2",
     "@ngxs/store": "^3.7.2",
+    "cordova-res": "^0.15.4",
     "moment": "^2.29.1",
     "ngx-moment": "^5.0.0",
     "rxjs": "~7.1.0",
